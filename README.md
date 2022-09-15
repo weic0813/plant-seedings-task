@@ -16,8 +16,8 @@ The train set contains **3800** images and valid set contains **950** images
 Executing `train_Residual_Network.py`,we can get the best weight model named `Seedings_Classification_Residual_Network_best.ckpt`
 and its logs file `Seedings_Classification_Residual_Network_log`
 The change of training/validation loss are shown as the cureve graph below 
-![]("figures\Loss_Residual_Network.png")
-![]("figures\Accs_Residual_Network.png")
+![]("\figures\Loss_Residual_Network.png")
+![]("\figures\Accs_Residual_Network.png")
 * * *
 
 ##Testing
