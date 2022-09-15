@@ -6,7 +6,7 @@ The details of model and training,check `train_Residual_Network.py`
 * * *
 
 ## Environment
-The environment of the project is constructed by `conda`
+The environment of the project is constructed by `conda`.  
 To check the environment setup, see `requirements.txt`
 Training on GTX 1080Ti with CUDA version **11.4**
 * * *
