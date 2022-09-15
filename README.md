@@ -1,7 +1,7 @@
 # Plant-seedings-Classification
 
 **Plant-seedings-Classification task on kaggle with pytorch**
-The highest score on kaggle is `0.93198`
+The highest score on kaggle is `0.93198`  
 The details of model and training,check `train_Residual_Network.py`
 * * *
 
