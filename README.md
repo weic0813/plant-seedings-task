@@ -14,7 +14,8 @@ Training on GTX 1080Ti with CUDA version **11.4**
 ##Training
 The train set contains **3800** images and valid set contains **950** images
 Executing `train_Residual_Network.py`,we can get the best weight model named `Seedings_Classification_Residual_Network_best.ckpt`
-and its logs file `Seedings_Classification_Residual_Network_log`
+and its logs file `Seedings_Classification_Residual_Network_log`  
+
 The change of training/validation loss are shown as the cureve graph below 
 ![](https://github.com/weic0813/plant-seedings-task/blob/main/figures/Loss_Residual_Network.png?raw=true)
 ![](https://github.com/weic0813/plant-seedings-task/blob/main/figures/Accs_Residual_Network.png?raw=true)
