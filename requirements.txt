@@ -1,0 +1,33 @@
+Bottleneck @ file:///opt/conda/conda-bld/bottleneck_1657175564434/work
+certifi @ file:///opt/conda/conda-bld/certifi_1655968806487/work/certifi
+charset-normalizer==2.1.1
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+fonttools==4.25.0
+idna==3.3
+kiwisolver @ file:///opt/conda/conda-bld/kiwisolver_1653292039266/work
+matplotlib @ file:///opt/conda/conda-bld/matplotlib-suite_1660167928326/work
+mkl-fft==1.3.1
+mkl-random @ file:///home/builder/ci_310/mkl_random_1641843545607/work
+mkl-service==2.4.0
+munkres==1.1.4
+numexpr @ file:///opt/conda/conda-bld/numexpr_1656940300424/work
+numpy @ file:///tmp/abs_653_j00fmm/croots/recipe/numpy_and_numpy_base_1659432701727/work
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas==1.4.3
+Pillow==9.2.0
+ply==3.11
+pyparsing @ file:///opt/conda/conda-bld/pyparsing_1661452539315/work
+PyQt5-sip==12.11.0
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///opt/conda/conda-bld/pytz_1654762638606/work
+requests==2.28.1
+sip @ file:///tmp/abs_44cd77b_pu/croots/recipe/sip_1659012365470/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+torch==1.12.1+cu113
+torchaudio==0.12.1+cu113
+torchvision==0.13.1+cu113
+tornado @ file:///opt/conda/conda-bld/tornado_1662061693373/work
+tqdm @ file:///opt/conda/conda-bld/tqdm_1650891076910/work
+typing_extensions==4.3.0
+urllib3==1.26.12
